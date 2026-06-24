@@ -127,7 +127,7 @@ The build outputs to `dist/` and can be deployed to any static‑host.
 ---
 
 ## License
-MIT © 2026 Parth Shah (parths301).
+MIT © 2026 Parth Sharma (parths301).
 ```
 
 ---
