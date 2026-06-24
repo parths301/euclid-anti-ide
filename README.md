@@ -1,7 +1,7 @@
 # Euclid – India‑focused Due Diligence Platform
 
 ## Overview
-Euclid is a single‑page web application that mirrors the functionality of **Harvey.ai** but is tailored for Indian jurisdictions (36 states & union territories).  It provides a chapter‑wise due‑diligence workflow, an interactive topological map of India, state‑specific profiles, and an AI‑powered chat playground.
+Euclid is a single‑page web application that is tailored for Indian jurisdictions (36 states & union territories).  It provides a chapter‑wise due‑diligence workflow, an interactive topological map of India, state‑specific profiles, and an AI‑powered chat playground.
 
 ---
 
