@@ -1,7 +1,9 @@
 # Euclid – India‑focused Due Diligence Platform
 
+> **About this repo:** Euclid is the design-prototype exploration of an AI legal due-diligence platform for Indian corporate transactions. It showcases the product vision, information architecture, and interface — the chapter-wise DD workflow, interactive India map, and a chat playground with simulated responses. The working implementation, with live Gemini analysis and Indian Kanoon legal research, lives in the companion repo [**Axiom AI**](https://github.com/parths301/axiom-ai-dashboard) (a Next.js / shadcn design of the same platform).
+
 ## Overview
-Euclid is a single‑page web application that is tailored for Indian jurisdictions (36 states & union territories).  It provides a chapter‑wise due‑diligence workflow, an interactive topological map of India, state‑specific profiles, and an AI‑powered chat playground.
+Euclid is a single‑page web application tailored for Indian jurisdictions (36 states & union territories). It presents a chapter‑wise due‑diligence workflow modelled on top-tier transactional practice — covering Corporate Matters, Material Contracts, Litigation, IP, Employment, and Regulatory — alongside an interactive topological map of India, state‑specific profiles, and an AI‑powered chat playground (prototype, with simulated responses).
 
 ---
 
